@@ -2,4 +2,4 @@
 
 Screenshots 
    HomePage 
-![](screenshot.png)
+![](img/homepage.png)
